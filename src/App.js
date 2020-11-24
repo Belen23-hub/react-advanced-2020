@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import ErrorExample from './tutorial/1-useState/setup/5-useState-counter';
 function App() {
   return (
-    <div className='container'>
-      <h2>Advanced Tutorial</h2>
+    <div className="container">
+      <ErrorExample />
     </div>
   )
 }
